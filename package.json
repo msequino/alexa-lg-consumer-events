@@ -1,0 +1,20 @@
+{
+  "name": "alexa-lg-consumer-events",
+  "version": "1.0.0",
+  "description": "Application which consumes lambda events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wait"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "alexa"
+  ],
+  "author": "msequino",
+  "license": "ISC"
+}
